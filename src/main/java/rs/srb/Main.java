@@ -1,7 +1,15 @@
 package rs.srb;
 
+import javax.swing.*;
 import java.util.Scanner;
 
+/**
+ * <p>
+ *    <li>
+ *        moj
+ *    </li> moj pocetak
+ * </p>Moj pocetak
+ */
 public class Main {
     public static void main(String[] args) {
        int user1;
@@ -23,5 +31,7 @@ public class Main {
         System.out.println("Variable it even " +even );
         int[] arrey = new int[8];
         System.out.println(arrey[4]);
+        String ko = JOptionPane.showInputDialog("ime");
+        System.out.println(ko);
     }
 }
