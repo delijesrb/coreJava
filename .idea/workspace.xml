@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19ccd648-f69c-4c1f-8ab6-47d76ad360ca" name="Changes" comment="moj prvi comit,drugi put">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/operatori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/poredjenje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/stringovi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/unarni.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/dodatak/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rs/srb/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rs/srb/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +23,18 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3a828c22-3afe-47b3-899f-a9933f92e32e" />
+        <option name="url" value="https://github.com/delijesrb/coreJava.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -48,20 +56,7 @@
     &quot;last_opened_file_path&quot;: &quot;C:/java_programs/Vezbe&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.poredjenje">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.Main" />
-      <module name="Vezbe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rs.srb.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.test">
     <configuration name="operatori" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rs.srb.puska.treci.operatori" />
       <module name="Vezbe" />
@@ -101,6 +96,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.puska.treci.test" />
+      <module name="Vezbe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.puska.treci.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="unarni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rs.srb.puska.treci.unarni" />
       <module name="Vezbe" />
@@ -116,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.test" />
         <item itemvalue="Application.poredjenje" />
         <item itemvalue="Application.unarni" />
         <item itemvalue="Application.stringovi" />
         <item itemvalue="Application.operatori" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -157,7 +165,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703243118393</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="moj prvi comit,drugi put">
+      <option name="closed" value="true" />
+      <created>1703659760577</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1703659760577</updated>
+    </task>
+    <task id="LOCAL-00005" summary="moj prvi comit,drugi put">
+      <option name="closed" value="true" />
+      <created>1703660125926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1703660125926</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +207,24 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moj prvi comit" />
-    <option name="LAST_COMMIT_MESSAGE" value="moj prvi comit" />
+    <MESSAGE value="moj prvi comit,drugi put" />
+    <option name="LAST_COMMIT_MESSAGE" value="moj prvi comit,drugi put" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/poredjenje.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Vezbe$Main.ic" NAME="Main Coverage Results" MODIFIED="1703244251166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
