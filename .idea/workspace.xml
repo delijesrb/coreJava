@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ccd648-f69c-4c1f-8ab6-47d76ad360ca" name="Changes" comment="moj prvi comit,drugi put">
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/dodatak/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/test.java" afterDir="false" />
+    <list default="true" id="19ccd648-f69c-4c1f-8ab6-47d76ad360ca" name="Changes" comment="moj prvi comit&#10;- cetvrti cas&#10;switch if">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/ArrayDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/caseSwichh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/drugicase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,13 +58,39 @@
     &quot;last_opened_file_path&quot;: &quot;C:/java_programs/Vezbe&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.test">
-    <configuration name="operatori" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.puska.treci.operatori" />
+  <component name="RunManager" selected="Application.drugicase">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.cetvrti.ArrayDemo" />
       <module name="Vezbe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rs.srb.puska.treci.*" />
+          <option name="PATTERN" value="rs.srb.cetvrti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="caseSwichh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.cetvrti.caseSwichh" />
+      <module name="Vezbe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.cetvrti.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="drugicase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.cetvrti.drugicase" />
+      <module name="Vezbe" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="rs.srb.cetvrti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,19 +100,6 @@
     </configuration>
     <configuration name="poredjenje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rs.srb.puska.treci.poredjenje" />
-      <module name="Vezbe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rs.srb.puska.treci.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="stringovi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.puska.treci.stringovi" />
       <module name="Vezbe" />
       <extension name="coverage">
         <pattern>
@@ -109,26 +124,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="unarni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.puska.treci.unarni" />
-      <module name="Vezbe" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="rs.srb.puska.treci.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.drugicase" />
+        <item itemvalue="Application.caseSwichh" />
+        <item itemvalue="Application.ArrayDemo" />
         <item itemvalue="Application.test" />
         <item itemvalue="Application.poredjenje" />
-        <item itemvalue="Application.unarni" />
-        <item itemvalue="Application.stringovi" />
-        <item itemvalue="Application.operatori" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703660125926</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="moj prvi comit&#10;- treci cas">
+      <option name="closed" value="true" />
+      <created>1703747618524</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1703747618524</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,7 +218,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moj prvi comit" />
     <MESSAGE value="moj prvi comit,drugi put" />
-    <option name="LAST_COMMIT_MESSAGE" value="moj prvi comit,drugi put" />
+    <MESSAGE value="moj prvi comit&#10;- treci cas" />
+    <MESSAGE value="moj prvi comit&#10;- cetvrti cas&#10;switch if" />
+    <option name="LAST_COMMIT_MESSAGE" value="moj prvi comit&#10;- cetvrti cas&#10;switch if" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -222,6 +234,30 @@
           <url>file://$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/test.java</url>
           <line>9</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/ArrayDemo.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/caseSwichh.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/caseSwichh.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/ArrayDemo.java</url>
+          <line>6</line>
+          <properties class="rs.srb.cetvrti.ArrayDemo" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
