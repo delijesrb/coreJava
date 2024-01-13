@@ -9,5 +9,6 @@ public class stringovi{
         String rezultat = ime +" "+ prezime;
         String nemci = ime +","+ prezime;
         JOptionPane.showMessageDialog(null,nemci);
+        JOptionPane.showMessageDialog(null,rezultat);
     }
 }

@@ -4,30 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19ccd648-f69c-4c1f-8ab6-47d76ad360ca" name="Changes" comment="moj prvi comit&#10;- cetvrti cas&#10;switch if">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/domaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/peti/caseSwichh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/peti/loop/petlje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/peti/loop/petlje2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/peti/spojeniCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/claseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/domaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/loop/BreakDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/loop/breakDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/loop/breakDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/loop/continueDEmo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/loop/continueDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/loop/dvodimenzionalni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/loop/petlje6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/objekt/Auto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/objekt/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/objekt/movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sesti/objekt/videoteka.java" afterDir="false" />
+    <list default="true" id="19ccd648-f69c-4c1f-8ab6-47d76ad360ca" name="Changes" comment="moj prvi comit&#10;- sesti cas&#10;switch if">
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/Ljudi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/SeasonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/animal/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/animal/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/animal/CatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/animal/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/animal/Duck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/animal/Fisch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/animal/Hamster.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/animal/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/human/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/human/Penzioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/human/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/human/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/deveti/movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/osmi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/osmi/Movie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/osmi/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/osmi/PersonDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/osmi/in/Penzioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/osmi/in/mmm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/clasa/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/clasa/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/clasa/filmDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/loop/continueWhitLabel2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/loop/domaciContinueWhitLabel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/loop/domaciPopravka.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/caseSwichh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/poredjenje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/poredjenje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/stringovi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/stringovi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/claseDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/clasa/claseDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/rs/srb/sedmi/domaci.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +68,9 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/rs/srb/sedmi/loop/domaciContinueWhitLabel.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 2
@@ -68,22 +83,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/java_programs/Proba&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/java_programs/Proba",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "copyright"
   }
-}</component>
-  <component name="RunManager" selected="Application.breakDemo3">
-    <configuration name="breakDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.sesti.loop.breakDemo2" />
+}]]></component>
+  <component name="RunManager" selected="Application.Ljudi">
+    <configuration name="CatDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.deveti.animal.CatDemo" />
       <module name="Vezbe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rs.srb.sesti.loop.*" />
+          <option name="PATTERN" value="rs.srb.deveti.animal.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="breakDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.sesti.loop.breakDemo3" />
+    <configuration name="Ljudi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.deveti.Ljudi" />
       <module name="Vezbe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rs.srb.sesti.loop.*" />
+          <option name="PATTERN" value="rs.srb.deveti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="continueDEmo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.sesti.loop.continueDEmo" />
+    <configuration name="PersonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.osmi.PersonDemo" />
       <module name="Vezbe" />
+      <option name="PROGRAM_PARAMETERS" value="-ime &quot;srecko&quot;" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rs.srb.sesti.loop.*" />
+          <option name="PATTERN" value="rs.srb.osmi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="continueDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.sesti.loop.continueDemo2" />
+    <configuration name="SeasonDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.deveti.SeasonDemo" />
       <module name="Vezbe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rs.srb.sesti.loop.*" />
+          <option name="PATTERN" value="rs.srb.deveti.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="dvodimenzionalni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rs.srb.sesti.loop.dvodimenzionalni" />
+    <configuration name="rs.srb.deveti.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rs.srb.deveti.Main" />
       <module name="Vezbe" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="rs.srb.sesti.loop.*" />
+          <option name="PATTERN" value="rs.srb.deveti.human.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,13 +161,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.CatDemo" />
+      <item itemvalue="Application.Ljudi" />
+      <item itemvalue="Application.SeasonDemo" />
+      <item itemvalue="Application.rs.srb.deveti.Main" />
+      <item itemvalue="Application.PersonDemo" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.breakDemo3" />
-        <item itemvalue="Application.continueDEmo" />
-        <item itemvalue="Application.continueDemo2" />
-        <item itemvalue="Application.dvodimenzionalni" />
-        <item itemvalue="Application.breakDemo2" />
+        <item itemvalue="Application.Ljudi" />
+        <item itemvalue="Application.CatDemo" />
+        <item itemvalue="Application.SeasonDemo" />
+        <item itemvalue="Application.rs.srb.deveti.Main" />
+        <item itemvalue="Application.PersonDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1703923809574</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="moj prvi comit&#10;- sesti cas&#10;switch if">
+      <option name="closed" value="true" />
+      <created>1704698391348</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1704698391348</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -247,16 +280,12 @@
     <MESSAGE value="moj prvi comit,drugi put" />
     <MESSAGE value="moj prvi comit&#10;- treci cas" />
     <MESSAGE value="moj prvi comit&#10;- cetvrti cas&#10;switch if" />
-    <option name="LAST_COMMIT_MESSAGE" value="moj prvi comit&#10;- cetvrti cas&#10;switch if" />
+    <MESSAGE value="moj prvi comit&#10;- sesti cas&#10;switch if" />
+    <option name="LAST_COMMIT_MESSAGE" value="moj prvi comit&#10;- sesti cas&#10;switch if" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/puska/treci/poredjenje.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/ArrayDemo.java</url>
           <line>12</line>
@@ -307,6 +336,35 @@
           <line>8</line>
           <option name="timeStamp" value="19" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/sedmi/loop/continueWhitLabel2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/sedmi/loop/domaciContinueWhitLabel.java</url>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/sesti/loop/continueDemo2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/osmi/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/osmi/PersonDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/deveti/SeasonDemo.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/rs/srb/cetvrti/ArrayDemo.java</url>
           <line>6</line>
@@ -334,6 +392,19 @@
           </properties>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/rs/srb/deveti/Main.java</url>
+          <line>8</line>
+          <properties class="rs.srb.deveti.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="27" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

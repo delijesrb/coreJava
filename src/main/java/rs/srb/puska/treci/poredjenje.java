@@ -8,8 +8,6 @@ public class poredjenje {
         int number1 = new Scanner(System.in).nextInt();
         System.out.println("unesi drgi broj");
         int number2 = new Scanner(System.in).nextInt();
-
-        boolean comparisonResult= number1==number2;
         if (number1==number2){
             System.out.println("uneseni Brojevi su jednaki");
         }
